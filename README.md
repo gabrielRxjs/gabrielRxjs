@@ -14,13 +14,13 @@
 
 <!--------------About Secion-------------->
 
-<h2>Sobre mi</h2>
+<h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi</h2>
 
 Desarrollador de software con mas de 4 años de experiencia construyendo apliaciones empresariales de alta exigencia, principalmente para el sector bancario. Mi enfoque esta especializado en el frontend con Angular pero tambien eh tenido la oportunidad en algunos trabajos de participar en el desarrollo backend con Java bajo una arquitectura de microservicios.
 
 
 <!--------------Tools Secion-------------->
-<h2>Herramientas Conocidas</h2>
+<h2> 💻 Herramientas Conocidas</h2>
 
 ### Frontend development:
 &emsp;
