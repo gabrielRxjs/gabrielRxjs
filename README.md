@@ -1,3 +1,4 @@
+<!--------------Header-------------->
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
@@ -13,3 +14,8 @@
 
 <!--------------About Secion-------------->
 
+<h2>Sobre mi</h2>
+
+
+<!--------------Tools Secion-------------->
+<h2>Herramientas Conocidas</h2>
