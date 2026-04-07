@@ -53,3 +53,4 @@ Desarrollador de software con mas de 4 años de experiencia construyendo apliaci
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
