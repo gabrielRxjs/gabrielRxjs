@@ -16,6 +16,10 @@
 
 <h2>Sobre mi</h2>
 
+Desarrollador de software con mas de 4 años de experiencia construyendo apliaciones empresariales de alta exigencia, principalmente para el sector bancario. Mi enfoque esta especializado en el frontend con Angular pero tambien eh tenido la oportunidad en algunos trabajos de participar en el desarrollo backend con Java bajo una arquitectura de microservicios.
+
+
+
 
 <!--------------Tools Secion-------------->
 <h2>Herramientas Conocidas</h2>
