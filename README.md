@@ -29,6 +29,7 @@ Desarrollador de software con mas de 4 años de experiencia construyendo apliaci
 ![RxJS](https://img.shields.io/badge/-RxJS-000?&logo=ReactiveX)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-000?&logo=angularMaterial)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-000?&logo=PrimeFaces)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -39,6 +40,8 @@ Desarrollador de software con mas de 4 años de experiencia construyendo apliaci
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=SpringBoot)
 ![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Diagrams.net)
 ![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=Insomnia)
+![Postman](https://img.shields.io/badge/-Postman%20-000?&logo=postman)
+
 
 ### Testing:
 &emsp;
@@ -49,8 +52,10 @@ Desarrollador de software con mas de 4 años de experiencia construyendo apliaci
 ### DevOps:
 &emsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
